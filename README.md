@@ -1,7 +1,5 @@
 # React + Vite + Redux + API
 
-# Aplikacja Logowania i Obliczeń
-
 To jest aplikacja stworzona w React, Vite i Redux, która umożliwia użytkownikom rejestrację, logowanie i wykonywanie obliczeń po zalogowaniu. Aplikacja komunikuje się z API do rejestracji, logowania i wykonywania obliczeń.
 
 ## Technologie
