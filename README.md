@@ -2,6 +2,9 @@
 
 To jest aplikacja stworzona w React, Vite i Redux, która umożliwia użytkownikom rejestrację, logowanie i wykonywanie obliczeń po zalogowaniu. Aplikacja komunikuje się z API do rejestracji, logowania i wykonywania obliczeń.
 
+[Używane API](https://github.com/Brizuu/kalkulator-api/tree/master)
+
+
 ## Technologie
 
 - **React** - Biblioteka do budowania interfejsów użytkownika.
