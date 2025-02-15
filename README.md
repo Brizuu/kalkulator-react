@@ -11,6 +11,7 @@ To jest aplikacja stworzona w React, Vite i Redux, która umożliwia użytkownik
 - **Vite** - Szybki bundler i serwer deweloperski.
 - **Redux** - Biblioteka do zarządzania stanem aplikacji.
 - **API** - Aplikacja komunikuje się z zewnętrznym API do logowania, rejestracji i obliczeń.
+- **Tailwind** - Formatowanie wyglądu witryny.
 
 
 ## Funkcjonalności
