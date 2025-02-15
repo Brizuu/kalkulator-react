@@ -17,3 +17,5 @@ To jest aplikacja stworzona w React, Vite i Redux, która umożliwia użytkownik
 - **Obliczenia po zalogowaniu** - Po zalogowaniu użytkownicy mogą wykonywać obliczenia, które są przetwarzane przez API.
 - **Zarządzanie stanem za pomocą Redux** - Stan aplikacji jest zarządzany centralnie przy użyciu Redux.
 
+## Zdjęcia aplikacji
+<img src="https://i.postimg.cc/8PV2kfnL/Screenshot-2025-02-15-234544.png">
