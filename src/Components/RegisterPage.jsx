@@ -16,7 +16,7 @@ const RegisterPage = () => {
     const registerHandler = () => {
 
         if (!username || !password || !confirmPassword) {
-            toast.error("Wszystkie pola muszą być wypełnione!"); // 🔥 Pokaż błąd jeśli formularz niekompletny
+            toast.error("Wszystkie pola muszą być wypełnione!");
             return;
         }else{
             console.table(username, password, confirmPassword)
@@ -25,7 +25,7 @@ const RegisterPage = () => {
     };
 
     const redirectLogin = () => {
-        window.location.href = "/login"; // Przekierowanie
+        window.location.href = "/login";
     };
 
     return (
