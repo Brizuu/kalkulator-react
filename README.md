@@ -1,8 +1,25 @@
-# React + Vite
+# React + Vite + Redux + API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+To jest aplikacja stworzona w React, Vite i Redux, która umożliwia użytkownikom rejestrację, logowanie i wykonywanie obliczeń po zalogowaniu. Aplikacja komunikuje się z API do rejestracji, logowania i wykonywania obliczeń.
 
-Currently, two official plugins are available:
+[Używane API](https://github.com/Brizuu/kalkulator-api/tree/master)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologie
+
+- **React** - Biblioteka do budowania interfejsów użytkownika.
+- **Vite** - Szybki bundler i serwer deweloperski.
+- **Redux** - Biblioteka do zarządzania stanem aplikacji.
+- **API** - Aplikacja komunikuje się z zewnętrznym API do logowania, rejestracji i obliczeń.
+- **Tailwind** - Formatowanie wyglądu witryny.
+
+
+## Funkcjonalności
+
+- **Rejestracja** - Użytkownicy mogą zarejestrować się, podając swoje dane.
+- **Logowanie** - Użytkownicy mogą się zalogować po utworzeniu konta.
+- **Obliczenia po zalogowaniu** - Po zalogowaniu użytkownicy mogą wykonywać obliczenia, które są przetwarzane przez API.
+- **Zarządzanie stanem za pomocą Redux** - Stan aplikacji jest zarządzany centralnie przy użyciu Redux.
+
+## Zdjęcia aplikacji
+<img src="https://i.postimg.cc/8PV2kfnL/Screenshot-2025-02-15-234544.png">
